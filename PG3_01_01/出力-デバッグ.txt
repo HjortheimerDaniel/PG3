@@ -1,0 +1,13 @@
+﻿'PG3_01_01.exe' (Win32): 'C:\KamataEngine\PG3\PG3_01_01\x64\Debug\PG3_01_01.exe' が読み込まれました。シンボルが読み込まれました。
+'PG3_01_01.exe' (Win32): 'C:\Windows\System32\ntdll.dll' が読み込まれました。
+'PG3_01_01.exe' (Win32): 'C:\Windows\System32\kernel32.dll' が読み込まれました。
+'PG3_01_01.exe' (Win32): 'C:\Windows\System32\KernelBase.dll' が読み込まれました。
+'PG3_01_01.exe' (Win32): 'C:\Windows\System32\apphelp.dll' が読み込まれました。
+'PG3_01_01.exe' (Win32): 'C:\Windows\System32\vcruntime140d.dll' が読み込まれました。
+'PG3_01_01.exe' (Win32): 'C:\Windows\System32\ucrtbased.dll' が読み込まれました。
+スレッド 0x1f2c はコード 0 (0x0) で終了しました。
+'PG3_01_01.exe' (Win32): 'C:\Windows\System32\kernel.appcore.dll' が読み込まれました。
+'PG3_01_01.exe' (Win32): 'C:\Windows\System32\msvcrt.dll' が読み込まれました。
+スレッド 0x6234 はコード 0 (0x0) で終了しました。
+スレッド 0x580 はコード 0 (0x0) で終了しました。
+プログラム '[21328] PG3_01_01.exe' はコード 0 (0x0) で終了しました。
